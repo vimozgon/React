@@ -14,7 +14,8 @@
 Клонировать репозиторий `git clonehttps://github.com/vimozgon/react`  
 В консоли перейти в папку проекта
 Восстановить модули: `npm install`   
-Запуск СЕРВЕРА DevServer: `npm run start`  
-Запуск build сборки: `npm run build`  
+Запуск СЕРВЕРА DevServer: `npm run start` 
+ 
+Добавил jpg в архив. Доказательство сборки и работы.
 
  
